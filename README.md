@@ -1,4 +1,4 @@
-# Olist Copilot 🛒🤖
+# Olist Copilot 
 
 An AI agent that answers business questions in natural language on the **Olist Brazilian e-commerce dataset** (~100k orders), by combining **text-to-SQL** and **semantic search (RAG)** over customer reviews.
 
