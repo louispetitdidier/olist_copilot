@@ -58,7 +58,7 @@ Python · LangGraph · LangChain · Gemini API · DuckDB · ChromaDB · FastAPI 
 ## Getting started
 
 ```bash
-git clone https://github.com/louispetitdidier/olist-copilot.git
+git clone https://github.com/louispetitdidier/olist_copilot.git
 cd olist-copilot
 python -m venv .venv
 source .venv/bin/activate            # Windows: .venv\Scripts\activate
