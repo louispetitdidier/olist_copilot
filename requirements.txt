@@ -1,0 +1,19 @@
+# Données
+duckdb
+pandas
+
+# LLM et agent
+langchain
+langchain-openai
+langgraph
+
+# RAG
+chromadb
+
+# API
+fastapi
+uvicorn
+
+# Utilitaires
+python-dotenv
+pytest

@@ -1,0 +1,19 @@
+# Secrets : ne jamais publier la clé API
+.env
+
+# Environnement virtuel
+.venv/
+venv/
+
+# Données (trop lourdes pour GitHub, et téléchargeables sur Kaggle)
+data/raw/*.csv
+data/*.duckdb
+data/chroma/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Système
+.DS_Store
